@@ -1,0 +1,15 @@
+2022-06-06 00:08:56,209:paractice_dict:INFO:Key and valuesrice and {'name': 'Basmati', 'Price/kg': 50}
+2022-06-06 00:08:56,209:paractice_dict:INFO:The dictionary created is {'rice': {'name': 'Basmati', 'Price/kg': 50, 'total price': 2400}}
+2022-06-06 00:08:56,209:paractice_dict:INFO:Program successfully worked
+2022-06-06 00:10:21,564:paractice_dict:INFO:Key and valuesrice and {'name': 'Basmati', 'Price/kg': 50}
+2022-06-06 00:11:15,416:paractice_dict:INFO:Key and valuesrice and {'name': 'Basmati', 'Price/kg': 50}
+2022-06-06 00:11:59,180:paractice_dict:INFO:Key and valuesrice and {'name': 'Basmati', 'Price/kg': 50}
+2022-06-06 00:11:59,180:paractice_dict:ERROR:Error occured name 'total_price' is not defined
+2022-06-06 00:19:26,528:paractice_dict:INFO:Key and valuesrice and {'name': 'Basmati', 'Price/kg': 50}
+2022-06-06 00:19:26,528:paractice_dict:ERROR:Error occured name 'c' is not defined
+2022-06-06 00:20:50,272:paractice_dict:INFO:Key and valuesrice and {'name': 'Basmati', 'Price/kg': 50}
+2022-06-06 00:20:50,272:paractice_dict:ERROR:Error occured name 'c' is not defined
+2022-06-06 00:23:09,160:paractice_dict:INFO:Key and valuesrice and {'name': 'Basmati', 'Price/kg': 50}
+2022-06-06 00:23:09,161:paractice_dict:ERROR:Error occured name 'c' is not defined
+2022-06-06 00:23:32,771:paractice_dict:INFO:Key and valuesrice and {'name': 'Basmati', 'Price/kg': 50}
+2022-06-06 00:23:32,771:paractice_dict:ERROR:Error occured name 'c' is not defined

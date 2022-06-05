@@ -1,0 +1,5 @@
+2022-06-06 00:24:08,938:paractice_dict:INFO:Key and valuesrice and {'name': 'Basmati', 'Price/kg': 50}
+2022-06-06 00:24:08,938:paractice_dict:ERROR:Error occured name 'c' is not defined
+2022-06-06 00:24:31,460:paractice_dict:INFO:Total price is calculated 2400
+2022-06-06 00:24:31,461:paractice_dict:INFO:Key and valuesrice and {'name': 'Basmati', 'Price/kg': 50}
+2022-06-06 00:24:31,461:paractice_dict:ERROR:Error occured name 'c' is not defined
